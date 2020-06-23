@@ -13,5 +13,10 @@ Catweazle ist eine Fernsehserie des britischen Privatsendernetzwerks Independent
 * er hat immer seine Kröte Kühlwalda dabei
 * die Gegenwart bringt ihn manchmal zum Verzweifeln
 
+
 Sein Lieblingszitat:
 > Ich werde dich vernichten!
+
+Hier sein Konterfei:
+
+<img src="https://upload.wikimedia.org/wikipedia/en/e/e1/Catweazle-title.jpg"/>
