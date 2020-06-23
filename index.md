@@ -12,3 +12,7 @@ Catweazle ist eine Fernsehserie des britischen Privatsendernetzwerks Independent
 * seine Zauberformel lautet „Salmei, Dalmei, Adomei“
 * er hat immer seine Kröte Kühlwalda dabei
 * die Gegenwart bringt ihn manchmal zum Verzweifeln
+
+Hier sein Konterfei:
+
+<img src="https://upload.wikimedia.org/wikipedia/en/e/e1/Catweazle-title.jpg"/>
